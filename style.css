@@ -1,0 +1,27 @@
+body {
+  color: honeydew;
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: lemonchiffon;
+}
+.number-box {
+  width: 500px;
+  height: 500px;
+  padding: 20px;
+  background-color: black;
+  margin: 70px 30%;
+}
+.heading {
+  text-align: center;
+  font-size: xx-large;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.retrybtn,
+.checkbtn {
+  padding: 10px;
+}
+.input-data {
+  padding: 10px;
+  outline: none;
+}
